@@ -4,7 +4,7 @@
   "description": "API JSON Server pour les flashcards coréennes",
   "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 3004 --host 0.0.0.0 --no-static"
+    "start": "json-server --watch db.json --port 3004 --host 0.0.0.0 --static false"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3",
