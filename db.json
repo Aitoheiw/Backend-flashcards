@@ -1,0 +1,1019 @@
+{
+  "noms": [
+    {
+      "id": 1,
+      "coreen": "사과",
+      "romanisation": "sagwa",
+      "francais": "pomme",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 2,
+      "coreen": "물",
+      "romanisation": "mul",
+      "francais": "eau",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 3,
+      "coreen": "우유",
+      "romanisation": "uyu",
+      "francais": "lait",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 4,
+      "coreen": "빵",
+      "romanisation": "ppang",
+      "francais": "pain",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 5,
+      "coreen": "치즈",
+      "romanisation": "chijeu",
+      "francais": "fromage",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 6,
+      "coreen": "고기",
+      "romanisation": "gogi",
+      "francais": "viande",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 7,
+      "coreen": "생선",
+      "romanisation": "saengseon",
+      "francais": "poisson",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 8,
+      "coreen": "밥",
+      "romanisation": "bap",
+      "francais": "riz",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 9,
+      "coreen": "국",
+      "romanisation": "guk",
+      "francais": "soupe",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 10,
+      "coreen": "달걀",
+      "romanisation": "dalgyal",
+      "francais": "œuf",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 11,
+      "coreen": "설탕",
+      "romanisation": "seoltang",
+      "francais": "sucre",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 12,
+      "coreen": "소금",
+      "romanisation": "sogeum",
+      "francais": "sel",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 13,
+      "coreen": "후추",
+      "romanisation": "huchu",
+      "francais": "poivre",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 14,
+      "coreen": "커피",
+      "romanisation": "keopi",
+      "francais": "café",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 15,
+      "coreen": "차",
+      "romanisation": "cha",
+      "francais": "thé",
+      "categorie": "nourriture"
+    },
+    {
+      "id": 16,
+      "coreen": "고양이",
+      "romanisation": "goyangi",
+      "francais": "chat",
+      "categorie": "animaux"
+    },
+    {
+      "id": 17,
+      "coreen": "개",
+      "romanisation": "gae",
+      "francais": "chien",
+      "categorie": "animaux"
+    },
+    {
+      "id": 18,
+      "coreen": "새",
+      "romanisation": "sae",
+      "francais": "oiseau",
+      "categorie": "animaux"
+    },
+    {
+      "id": 19,
+      "coreen": "말",
+      "romanisation": "mal",
+      "francais": "cheval",
+      "categorie": "animaux"
+    },
+    {
+      "id": 20,
+      "coreen": "소",
+      "romanisation": "so",
+      "francais": "vache",
+      "categorie": "animaux"
+    },
+    {
+      "id": 21,
+      "coreen": "자동차",
+      "romanisation": "jadongcha",
+      "francais": "voiture",
+      "categorie": "transport"
+    },
+    {
+      "id": 22,
+      "coreen": "비행기",
+      "romanisation": "bihaenggi",
+      "francais": "avion",
+      "categorie": "transport"
+    },
+    {
+      "id": 23,
+      "coreen": "버스",
+      "romanisation": "beoseu",
+      "francais": "bus",
+      "categorie": "transport"
+    },
+    {
+      "id": 24,
+      "coreen": "기차",
+      "romanisation": "gicha",
+      "francais": "train",
+      "categorie": "transport"
+    },
+    {
+      "id": 25,
+      "coreen": "배",
+      "romanisation": "bae",
+      "francais": "bateau",
+      "categorie": "transport"
+    },
+    {
+      "id": 26,
+      "coreen": "바다",
+      "romanisation": "bada",
+      "francais": "mer",
+      "categorie": "nature"
+    },
+    {
+      "id": 27,
+      "coreen": "산",
+      "romanisation": "san",
+      "francais": "montagne",
+      "categorie": "nature"
+    },
+    {
+      "id": 28,
+      "coreen": "강",
+      "romanisation": "gang",
+      "francais": "rivière",
+      "categorie": "nature"
+    },
+    {
+      "id": 29,
+      "coreen": "하늘",
+      "romanisation": "haneul",
+      "francais": "ciel",
+      "categorie": "nature"
+    },
+    {
+      "id": 30,
+      "coreen": "태양",
+      "romanisation": "taeyang",
+      "francais": "soleil",
+      "categorie": "nature"
+    },
+    {
+      "id": 31,
+      "coreen": "노트북",
+      "romanisation": "noteubuk",
+      "francais": "ordinateur",
+      "categorie": "objet"
+    },
+    {
+      "id": 32,
+      "coreen": "핸드폰",
+      "romanisation": "haendeupon",
+      "francais": "téléphone",
+      "categorie": "objet"
+    },
+    {
+      "id": 33,
+      "coreen": "책상",
+      "romanisation": "chaeksang",
+      "francais": "bureau",
+      "categorie": "objet"
+    },
+    {
+      "id": 34,
+      "coreen": "신발",
+      "romanisation": "sinbal",
+      "francais": "chaussures",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 35,
+      "coreen": "바지",
+      "romanisation": "baji",
+      "francais": "pantalon",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 36,
+      "coreen": "모자",
+      "romanisation": "moja",
+      "francais": "chapeau",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 37,
+      "coreen": "셔츠",
+      "romanisation": "syeocheu",
+      "francais": "chemise",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 38,
+      "coreen": "코트",
+      "romanisation": "koteu",
+      "francais": "manteau",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 39,
+      "coreen": "가방",
+      "romanisation": "gabang",
+      "francais": "sac",
+      "categorie": "objet"
+    },
+    {
+      "id": 40,
+      "coreen": "창문",
+      "romanisation": "changmun",
+      "francais": "fenêtre",
+      "categorie": "objet"
+    },
+    {
+      "id": 41,
+      "coreen": "티셔츠",
+      "romanisation": "tisyeocheu",
+      "francais": "t-shirt",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 42,
+      "coreen": "청바지",
+      "romanisation": "cheongbaji",
+      "francais": "jean",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 43,
+      "coreen": "양말",
+      "romanisation": "yangmal",
+      "francais": "chaussettes",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 44,
+      "coreen": "장갑",
+      "romanisation": "janggap",
+      "francais": "gants",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 45,
+      "coreen": "드레스",
+      "romanisation": "deureseu",
+      "francais": "robe",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 46,
+      "coreen": "시계",
+      "romanisation": "sigye",
+      "francais": "montre",
+      "categorie": "objet"
+    },
+    {
+      "id": 47,
+      "coreen": "열쇠",
+      "romanisation": "yeolswe",
+      "francais": "clé",
+      "categorie": "objet"
+    },
+    {
+      "id": 48,
+      "coreen": "지갑",
+      "romanisation": "jigap",
+      "francais": "portefeuille",
+      "categorie": "objet"
+    },
+    {
+      "id": 49,
+      "coreen": "거울",
+      "romanisation": "geoul",
+      "francais": "miroir",
+      "categorie": "objet"
+    },
+    {
+      "id": 50,
+      "coreen": "텔레비전",
+      "romanisation": "tellebijeon",
+      "francais": "télévision",
+      "categorie": "objet"
+    },
+    {
+      "id": 51,
+      "coreen": "머리",
+      "romanisation": "meori",
+      "francais": "tête",
+      "categorie": "corps"
+    },
+    {
+      "id": 53,
+      "coreen": "코",
+      "romanisation": "ko",
+      "francais": "nez",
+      "categorie": "corps"
+    },
+    {
+      "id": 54,
+      "coreen": "입",
+      "romanisation": "ip",
+      "francais": "bouche",
+      "categorie": "corps"
+    },
+    {
+      "id": 55,
+      "coreen": "귀",
+      "romanisation": "gwi",
+      "francais": "oreille",
+      "categorie": "corps"
+    },
+    {
+      "id": 56,
+      "coreen": "비",
+      "romanisation": "bi",
+      "francais": "pluie",
+      "categorie": "météo"
+    },
+    {
+      "id": 58,
+      "coreen": "바람",
+      "romanisation": "baram",
+      "francais": "vent",
+      "categorie": "météo"
+    },
+    {
+      "id": 59,
+      "coreen": "천둥",
+      "romanisation": "cheondung",
+      "francais": "tonnerre",
+      "categorie": "météo"
+    },
+    {
+      "id": 60,
+      "coreen": "번개",
+      "romanisation": "beongae",
+      "francais": "éclair",
+      "categorie": "météo"
+    },
+    {
+      "id": 61,
+      "coreen": "빨강",
+      "romanisation": "ppalgang",
+      "francais": "rouge",
+      "categorie": "couleur"
+    },
+    {
+      "id": 62,
+      "coreen": "파랑",
+      "romanisation": "parang",
+      "francais": "bleu",
+      "categorie": "couleur"
+    },
+    {
+      "id": 63,
+      "coreen": "노랑",
+      "romanisation": "norang",
+      "francais": "jaune",
+      "categorie": "couleur"
+    },
+    {
+      "id": 64,
+      "coreen": "초록",
+      "romanisation": "chorok",
+      "francais": "vert",
+      "categorie": "couleur"
+    },
+    {
+      "id": 65,
+      "coreen": "검정",
+      "romanisation": "geomjeong",
+      "francais": "noir",
+      "categorie": "couleur"
+    },
+    {
+      "id": 66,
+      "coreen": "행복",
+      "romanisation": "haengbok",
+      "francais": "bonheur",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 67,
+      "coreen": "슬픔",
+      "romanisation": "seulpeum",
+      "francais": "tristesse",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 68,
+      "coreen": "화남",
+      "romanisation": "hwanam",
+      "francais": "colère",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 69,
+      "coreen": "놀람",
+      "romanisation": "nollam",
+      "francais": "surprise",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 70,
+      "coreen": "사랑",
+      "romanisation": "sarang",
+      "francais": "amour",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 71,
+      "coreen": "의사",
+      "romanisation": "uisa",
+      "francais": "médecin",
+      "categorie": "métier"
+    },
+    {
+      "id": 72,
+      "coreen": "선생님",
+      "romanisation": "seonsaengnim",
+      "francais": "professeur",
+      "categorie": "métier"
+    },
+    {
+      "id": 73,
+      "coreen": "경찰",
+      "romanisation": "gyeongchal",
+      "francais": "policier",
+      "categorie": "métier"
+    },
+    {
+      "id": 74,
+      "coreen": "요리사",
+      "romanisation": "yorisa",
+      "francais": "cuisinier",
+      "categorie": "métier"
+    },
+    {
+      "id": 75,
+      "coreen": "가수",
+      "romanisation": "gasu",
+      "francais": "chanteur",
+      "categorie": "métier"
+    },
+    {
+      "id": 76,
+      "coreen": "일",
+      "romanisation": "il",
+      "francais": "un",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 77,
+      "coreen": "이",
+      "romanisation": "i",
+      "francais": "deux",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 78,
+      "coreen": "삼",
+      "romanisation": "sam",
+      "francais": "trois",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 79,
+      "coreen": "사",
+      "romanisation": "sa",
+      "francais": "quatre",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 80,
+      "coreen": "오",
+      "romanisation": "o",
+      "francais": "cinq",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 81,
+      "coreen": "옷",
+      "romanisation": "ot",
+      "francais": "vêtement",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 82,
+      "coreen": "재킷",
+      "romanisation": "jaekit",
+      "francais": "veste",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 83,
+      "coreen": "반바지",
+      "romanisation": "banbaji",
+      "francais": "short",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 84,
+      "coreen": "운동화",
+      "romanisation": "undonghwa",
+      "francais": "baskets",
+      "categorie": "vêtements"
+    },
+    {
+      "id": 85,
+      "coreen": "가위",
+      "romanisation": "gawi",
+      "francais": "ciseaux",
+      "categorie": "objet"
+    },
+    {
+      "id": 86,
+      "coreen": "책장",
+      "romanisation": "chaekjang",
+      "francais": "étagère",
+      "categorie": "objet"
+    },
+    {
+      "id": 87,
+      "coreen": "냉장고",
+      "romanisation": "naengjanggo",
+      "francais": "réfrigérateur",
+      "categorie": "objet"
+    },
+    {
+      "id": 88,
+      "coreen": "에어컨",
+      "romanisation": "eeokeon",
+      "francais": "climatiseur",
+      "categorie": "objet"
+    },
+    {
+      "id": 89,
+      "coreen": "손",
+      "romanisation": "son",
+      "francais": "main",
+      "categorie": "corps"
+    },
+    {
+      "id": 90,
+      "coreen": "발",
+      "romanisation": "bal",
+      "francais": "pied",
+      "categorie": "corps"
+    },
+    {
+      "id": 91,
+      "coreen": "다리",
+      "romanisation": "dari",
+      "francais": "jambe",
+      "categorie": "corps"
+    },
+    {
+      "id": 92,
+      "coreen": "배",
+      "romanisation": "bae",
+      "francais": "ventre",
+      "categorie": "corps"
+    },
+    {
+      "id": 93,
+      "coreen": "운전사",
+      "romanisation": "unjeonsa",
+      "francais": "chauffeur",
+      "categorie": "métier"
+    },
+    {
+      "id": 94,
+      "coreen": "간호사",
+      "romanisation": "ganhosa",
+      "francais": "infirmier",
+      "categorie": "métier"
+    },
+    {
+      "id": 95,
+      "coreen": "배우",
+      "romanisation": "baeu",
+      "francais": "acteur",
+      "categorie": "métier"
+    },
+    {
+      "id": 96,
+      "coreen": "작가",
+      "romanisation": "jakga",
+      "francais": "écrivain",
+      "categorie": "métier"
+    },
+    {
+      "id": 97,
+      "coreen": "돼지",
+      "romanisation": "dwaeji",
+      "francais": "cochon",
+      "categorie": "animaux"
+    },
+    {
+      "id": 98,
+      "coreen": "닭",
+      "romanisation": "dak",
+      "francais": "poulet",
+      "categorie": "animaux"
+    },
+    {
+      "id": 99,
+      "coreen": "여우",
+      "romanisation": "yeou",
+      "francais": "renard",
+      "categorie": "animaux"
+    },
+    {
+      "id": 100,
+      "coreen": "늑대",
+      "romanisation": "neukdae",
+      "francais": "loup",
+      "categorie": "animaux"
+    },
+    {
+      "id": 101,
+      "coreen": "오토바이",
+      "romanisation": "otobai",
+      "francais": "moto",
+      "categorie": "transport"
+    },
+    {
+      "id": 102,
+      "coreen": "트럭",
+      "romanisation": "teureok",
+      "francais": "camion",
+      "categorie": "transport"
+    },
+    {
+      "id": 103,
+      "coreen": "자전거",
+      "romanisation": "jajeongeo",
+      "francais": "vélo",
+      "categorie": "transport"
+    },
+    {
+      "id": 104,
+      "coreen": "헬리콥터",
+      "romanisation": "hellikopteo",
+      "francais": "hélicoptère",
+      "categorie": "transport"
+    },
+    {
+      "id": 105,
+      "coreen": "두려움",
+      "romanisation": "duryeoum",
+      "francais": "peur",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 106,
+      "coreen": "기쁨",
+      "romanisation": "gippeum",
+      "francais": "joie",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 107,
+      "coreen": "부끄러움",
+      "romanisation": "bukkeureoum",
+      "francais": "honte",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 108,
+      "coreen": "스트레스",
+      "romanisation": "seuteureseu",
+      "francais": "stress",
+      "categorie": "sentiment"
+    },
+    {
+      "id": 109,
+      "coreen": "꽃",
+      "romanisation": "kkot",
+      "francais": "fleur",
+      "categorie": "nature"
+    },
+    {
+      "id": 110,
+      "coreen": "나무",
+      "romanisation": "namu",
+      "francais": "arbre",
+      "categorie": "nature"
+    },
+    {
+      "id": 111,
+      "coreen": "구름",
+      "romanisation": "gureum",
+      "francais": "nuage",
+      "categorie": "nature"
+    },
+    {
+      "id": 112,
+      "coreen": "별",
+      "romanisation": "byeol",
+      "francais": "étoile",
+      "categorie": "nature"
+    },
+    {
+      "id": 113,
+      "coreen": "맑음",
+      "romanisation": "malgeum",
+      "francais": "ensoleillé",
+      "categorie": "météo"
+    },
+    {
+      "id": 114,
+      "coreen": "흐림",
+      "romanisation": "heurim",
+      "francais": "nuageux",
+      "categorie": "météo"
+    },
+    {
+      "id": 115,
+      "coreen": "더위",
+      "romanisation": "deowi",
+      "francais": "chaleur",
+      "categorie": "météo"
+    },
+    {
+      "id": 116,
+      "coreen": "추위",
+      "romanisation": "chuwi",
+      "francais": "froid",
+      "categorie": "météo"
+    },
+    {
+      "id": 117,
+      "coreen": "하양",
+      "romanisation": "hayang",
+      "francais": "blanc",
+      "categorie": "couleur"
+    },
+    {
+      "id": 118,
+      "coreen": "회색",
+      "romanisation": "hoesaek",
+      "francais": "gris",
+      "categorie": "couleur"
+    },
+    {
+      "id": 119,
+      "coreen": "보라",
+      "romanisation": "bora",
+      "francais": "violet",
+      "categorie": "couleur"
+    },
+    {
+      "id": 120,
+      "coreen": "갈색",
+      "romanisation": "galsaek",
+      "francais": "marron",
+      "categorie": "couleur"
+    },
+    {
+      "id": 121,
+      "coreen": "듣다",
+      "romanisation": "deutda",
+      "francais": "écouter",
+      "categorie": "verbe"
+    },
+    {
+      "id": 122,
+      "coreen": "보다",
+      "romanisation": "boda",
+      "francais": "regarder",
+      "categorie": "verbe"
+    },
+    {
+      "id": 123,
+      "coreen": "배우다",
+      "romanisation": "baeuda",
+      "francais": "apprendre",
+      "categorie": "verbe"
+    },
+    {
+      "id": 124,
+      "coreen": "가르치다",
+      "romanisation": "gareuchida",
+      "francais": "enseigner",
+      "categorie": "verbe"
+    },
+    {
+      "id": 125,
+      "coreen": "일하다",
+      "romanisation": "ilhada",
+      "francais": "travailler",
+      "categorie": "verbe"
+    },
+    {
+      "id": 126,
+      "coreen": "운전하다",
+      "romanisation": "unjeonhada",
+      "francais": "conduire",
+      "categorie": "verbe"
+    },
+    {
+      "id": 127,
+      "coreen": "청소하다",
+      "romanisation": "cheongsohada",
+      "francais": "nettoyer",
+      "categorie": "verbe"
+    },
+    {
+      "id": 128,
+      "coreen": "요리하다",
+      "romanisation": "yorihada",
+      "francais": "cuisiner",
+      "categorie": "verbe"
+    },
+    {
+      "id": 129,
+      "coreen": "수영하다",
+      "romanisation": "suyeonghada",
+      "francais": "nager",
+      "categorie": "verbe"
+    },
+    {
+      "id": 130,
+      "coreen": "노래하다",
+      "romanisation": "noraehada",
+      "francais": "chanter",
+      "categorie": "verbe"
+    },
+    {
+      "id": 131,
+      "coreen": "여섯",
+      "romanisation": "yeoseot",
+      "francais": "six",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 132,
+      "coreen": "일곱",
+      "romanisation": "ilgop",
+      "francais": "sept",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 133,
+      "coreen": "여덟",
+      "romanisation": "yeodeol",
+      "francais": "huit",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 134,
+      "coreen": "아홉",
+      "romanisation": "ahop",
+      "francais": "neuf",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 135,
+      "coreen": "열",
+      "romanisation": "yeol",
+      "francais": "dix",
+      "categorie": "chiffre"
+    },
+    {
+      "id": 136,
+      "coreen": "월요일",
+      "romanisation": "woryoil",
+      "francais": "lundi",
+      "categorie": "jour"
+    },
+    {
+      "id": 137,
+      "coreen": "화요일",
+      "romanisation": "hwayoil",
+      "francais": "mardi",
+      "categorie": "jour"
+    },
+    {
+      "id": 138,
+      "coreen": "수요일",
+      "romanisation": "suyoil",
+      "francais": "mercredi",
+      "categorie": "jour"
+    },
+    {
+      "id": 139,
+      "coreen": "목요일",
+      "romanisation": "mogyoil",
+      "francais": "jeudi",
+      "categorie": "jour"
+    },
+    {
+      "id": 140,
+      "coreen": "금요일",
+      "romanisation": "geumyoil",
+      "francais": "vendredi",
+      "categorie": "jour"
+    },
+    {
+      "id": 141,
+      "coreen": "토요일",
+      "romanisation": "toyoil",
+      "francais": "samedi",
+      "categorie": "jour"
+    },
+    {
+      "id": 142,
+      "coreen": "일요일",
+      "romanisation": "iryoil",
+      "francais": "dimanche",
+      "categorie": "jour"
+    },
+    {
+      "id": 143,
+      "coreen": "안녕",
+      "romanisation": "annyeong",
+      "francais": "salut",
+      "categorie": "expression"
+    },
+    {
+      "id": 144,
+      "coreen": "고마워",
+      "romanisation": "gomawo",
+      "francais": "merci",
+      "categorie": "expression"
+    },
+    {
+      "id": 145,
+      "coreen": "죄송합니다",
+      "romanisation": "joesonghamnida",
+      "francais": "je suis désolé",
+      "categorie": "expression"
+    },
+    {
+      "id": 146,
+      "coreen": "괜찮아요",
+      "romanisation": "gwaenchanayo",
+      "francais": "ça va",
+      "categorie": "expression"
+    },
+    {
+      "id": 147,
+      "coreen": "잘 지내요?",
+      "romanisation": "jal jinaeyo?",
+      "francais": "comment ça va ?",
+      "categorie": "expression"
+    }
+  ]
+}
